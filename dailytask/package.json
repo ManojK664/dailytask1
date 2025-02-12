@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/ManojK664/dailytask1.git",
+  "homepage": "https://MaojK664.github.com/dailytask1.git",
   "name": "dailytask",
   "private": true,
   "version": "0.0.0",
@@ -11,10 +11,9 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
-
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
